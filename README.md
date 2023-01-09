@@ -1,4 +1,4 @@
-<b>Primer proyecto Henry</b>
+<strong>Primer proyecto Henry</strong>
 
 ¡Hola 😄! Bienvenid@ a parte de mi preparacion para la carrera de Desarrollo Web Full Stack.
 
