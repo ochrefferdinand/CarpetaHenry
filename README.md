@@ -5,3 +5,4 @@
 
 <h4>Empecemos por la primera line de comandos</h4>
 
+vamos a crear una pagina web desde cero dedicada para un 
