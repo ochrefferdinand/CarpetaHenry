@@ -5,4 +5,3 @@
 
 <h4>Empecemos por la primera line de comandos</h4>
 
-Esto se trata de saber hacer las cosas de la mejor manera posible
